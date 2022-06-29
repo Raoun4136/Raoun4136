@@ -1,4 +1,4 @@
-### Hi there 👋
+### 박성오 등장 👋
 
 ## :writing_hand: Contact
 <a href="https://raoun4136.github.io/" target="_blank">
@@ -38,7 +38,7 @@
 ## :green_book: GitHub Stats
 [![Raoun4136's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raoun4136)](https://github.com/Raoun4136/github-readme-stats)
 
-[![Raoun4136's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getCurrentThread&layout=compact)](https://github.com/Raoun4136/github-readme-stats)
+[![Raoun4136's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raoun4136&layout=compact)](https://github.com/Raoun4136/github-readme-stats)
 
 
 
