@@ -34,8 +34,8 @@
 
 
 ## :teddy_bear: TOY
-- 블랙홀 18
- - 📷[Photorage : 추억기록 [앨범] 서비스](https://github.com/CAU-Blackhole-18)
+- 👨‍👩‍👧‍👦블랙홀 18
+    - 📷[Photorage : 추억기록 [앨범] 서비스](https://github.com/CAU-Blackhole-18)
 
 
 ## :green_book: GitHub Stats
