@@ -1,4 +1,7 @@
-### 박성오 등장 👋
+### 박성오 두둥등장 👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaoun4136&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 ## :writing_hand: Contact
 <a href="https://raoun4136.github.io/" target="_blank">
@@ -18,12 +21,12 @@
        
 ## :film_projector: Project       
 
-- 👨‍🎓[트립북 : 여행 코스형 다이어리 저장&공유 앱](https://makeus-challenge.notion.site/1377f62daf7e4617838e23f7f9db5803)
+- 🌎[트립북 : 여행 코스형 다이어리 저장&공유 앱](https://makeus-challenge.notion.site/1377f62daf7e4617838e23f7f9db5803)
 
 
 
 ## :calendar: Experience
-- 소프트웨어학부 재학 -.--/4.50
+- 중앙대학교 소프트웨어학부 재학 -.--/4.50
 
 
 ## :trophy: Awards and Honors
@@ -32,7 +35,7 @@
 
 ## :teddy_bear: TOY
 - 블랙홀 18
- - 🥏[Photorage : 추억기록 [앨범] 서비스](https://github.com/CAU-Blackhole-18)
+ - 📷[Photorage : 추억기록 [앨범] 서비스](https://github.com/CAU-Blackhole-18)
 
 
 ## :green_book: GitHub Stats
