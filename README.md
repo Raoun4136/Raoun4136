@@ -46,7 +46,7 @@
 
 
 ## :bulb: Algorithm
-이건 차마 보여줄 
+이건 차마 보여줄 수 없음
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=raoun4136)](https://solved.ac/raoun4136)
 -->
