@@ -22,7 +22,7 @@
 ## :film_projector: Project       
 
 - 🌎[트립북 : 여행 코스형 다이어리 저장&공유 앱](https://makeus-challenge.notion.site/1377f62daf7e4617838e23f7f9db5803)
-
+- 👨‍🎓[동문네트워크 : CAUCSE 중앙대학교 소프트웨어학부](https://github.com/CAUCSE)
 
 
 ## :calendar: Experience
