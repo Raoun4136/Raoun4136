@@ -4,8 +4,8 @@
 
 
 ## :writing_hand: Contact
-<a href="https://raoun4136.github.io/" target="_blank">
-       <img src="https://img.shields.io/badge/Blog-222222.svg?style=flat-square&logo=Github&logoColor=white"/>
+<a href="https://raoun4136-dev.vercel.app/" target="_blank">
+       <img src="https://img.shields.io/badge/Blog-222222.svg?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://programmers.co.kr/pr/qkrtjddh1212_5113" target="_blank">
        <img src="https://img.shields.io/badge/Portfolio-F05138?style=flat-square&logo=Swift&logoColor=white"/>
