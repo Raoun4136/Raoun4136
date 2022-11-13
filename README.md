@@ -7,9 +7,15 @@
 <a href="https://raoun4136-dev.vercel.app/" target="_blank">
        <img src="https://img.shields.io/badge/Blog-222222.svg?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
+
+<a href="https://raoun4136.notion.site/Raoun-022bd0edfdf24844b709de09b554629e" target="_black">
+       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<!--
 <a href="https://programmers.co.kr/pr/qkrtjddh1212_5113" target="_blank">
        <img src="https://img.shields.io/badge/Portfolio-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </a>
+-->
+
 <a href="mailto:qkrtjddh1212@naver.com" target="_blank">
        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
