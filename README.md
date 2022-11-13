@@ -18,17 +18,30 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"
+       style="height : auto; margin-left : 10px; margin-right : 10px;" />
        
 ## :film_projector: Project       
 
 - 🌎[트립북 : 여행 코스형 다이어리 저장&공유 앱](https://makeus-challenge.notion.site/1377f62daf7e4617838e23f7f9db5803)
 - 👨‍🎓[동문네트워크 : CAUCSE 중앙대학교 소프트웨어학부](https://github.com/CAUCSE)
+
+## :school: School Project
 - 🎨[색칠쏙쏙 : TorchVision으로 색칠공부하기](https://github.com/SsokSsok-CAU)
+- 🐍[SnakeGame : 오픈소스SW프로젝트](https://github.com/Raoun4136/CAU_OSS_2022)
 
-
+<!--
 ## :calendar: Experience
 - 중앙대학교 소프트웨어학부 재학 -.--/4.50
-
+-->
 
 ## :trophy: Awards and Honors
 - SW TECH-FAIR: 오픈소스 클러그 해커톤 우수상 "끝까지 간다" 2019.11.22
@@ -41,14 +54,14 @@
 
 ## :green_book: GitHub Stats
 [![Raoun4136's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raoun4136)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![Raoun4136's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raoun4136&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 ## :bulb: Algorithm
 이건 차마 보여줄 수 없음
-<!--
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=raoun4136)](https://solved.ac/raoun4136)
 -->
 
