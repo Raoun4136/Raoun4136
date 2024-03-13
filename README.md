@@ -9,6 +9,11 @@
 **ChungAng Univ.** <sub>@SoftWare Engineering (2018.02 ~ 2024.02)</sub>
 
 ## Activity & Project
+**TellingUs** <sub>@FrontEnd Developer (2023.02 ~ 2023.12)</sub>
+> **TellingMe Client** <sub>React- [`Web`](https://tellingme.co.kr) [`Github`](https://github.com/telling-me/tellingme-client)</sub><br/>
+> **TellingMe Android** <sub>React Native - [`App`](https://play.google.com/store/apps/details?id=com.tellingme_rn) [`Github`](https://github.com/telling-me/tellingme-RN)</sub>
+
+
 **UMC** <sub>1st Server `Node.js` (2021.09 ~ 2022.02)</sub>
 > **Tripbook** <sub>Travel diary based on course - [`Notion`](https://makeus-challenge.notion.site/1377f62daf7e4617838e23f7f9db5803) [`Github`](https://github.com/whwkdns13/server_tripbook)</sub>
 
