@@ -14,7 +14,7 @@
 
 **University** <sub>@CAU SoftWare Engineering (2018.02 ~ 2024.02)</sub>
 > **SSokSSok** <sub>Study coloring with TorchVision - [`Github`](https://github.com/SsokSsok-CAU)</sub><br/>
-> **Snake Game** <sub> - [`Github`](https://github.com/Raoun4136/CAU_OSS_2022)</sub>
+> **Snake Game** <sub>Open Source Project - [`Github`](https://github.com/Raoun4136/CAU_OSS_2022)</sub>
 
 ## Awards and Honors
 **SW TECH-FAIR** <sub>오픈소스 클러그 해커톤 우수상 "끝까지 간다" (2019.11.22)</sub>
