@@ -1,5 +1,21 @@
-### 박성오 ﹒ Raoun
-> *FrontEnd Developer*
+<!-- Profile README: Raoun4136 -->
+
+<div align="center">
+
+# 박성오 · Raoun
+<sub>Frontend Developer with Claude Code & Codex</sub>
+
+<a href="https://www.raoun.me/" target="_blank">
+       <img src="https://img.shields.io/badge/Blog-222222.svg?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:qkrtjddh1212@naver.com" target="_blank">
+       <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+</a>
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raoun4136&hide_title=true&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&height=300&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Work Experience
 **Featuring Corp.** <sub>@FrontEnd Developer (2023.07 ~ now)</sub><br/>
@@ -25,36 +41,3 @@
 **SW TECH-FAIR** <sub>오픈소스 클러그 해커톤 우수상 "끝까지 간다" (2019.11.22)</sub>
 
 <br/>
-
-<a href="https://www.raoun.me/" target="_blank">
-       <img src="https://img.shields.io/badge/Blog-222222.svg?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-<!--
-<a href="https://raoun4136.notion.site/Raoun-f3f0c035828d491a8a95845bbf14de02" target="_black">
-       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
--->
-
-<!--
-<a href="https://raoun4136.notion.site/Raoun-022bd0edfdf24844b709de09b554629e" target="_black">
-       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
-
--->
-<a href="mailto:qkrtjddh1212@naver.com" target="_blank">
-       <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-</a>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaoun4136&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<!--
-[![Raoun4136's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raoun4136)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Raoun4136's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raoun4136&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## :bulb: Algorithm
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=raoun4136)](https://solved.ac/raoun4136)
--->
